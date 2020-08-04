@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. cricket
+2. movies
+3. games
+   1. pubg
+   2. mini militia
